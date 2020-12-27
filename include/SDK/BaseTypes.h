@@ -9,3 +9,8 @@ typedef int int32;
 typedef int qboolean;
 typedef unsigned long ULONG;
 typedef int EOFFSET;
+typedef unsigned char byte;
+struct color24 { byte r; byte g; byte b; };
+struct colorVec { unsigned int r; unsigned int g; unsigned int b; unsigned int a; };
+typedef unsigned int CRC32_t;
+typedef unsigned long long uint64;
