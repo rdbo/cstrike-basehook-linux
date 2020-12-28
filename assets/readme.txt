@@ -1,0 +1,1 @@
+Assets, such as fonts and images, should be put on this folder.

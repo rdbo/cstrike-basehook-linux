@@ -1,0 +1,1 @@
+All compiled binaries will be located on this folder (including the shared library of the basehook).
