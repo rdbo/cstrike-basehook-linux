@@ -76,6 +76,7 @@
 #include "Types/sentenceEntry.h"
 #include "Types/cmdalias.h"
 #include "Types/cl_enginefuncs.h"
+#include "Types/kbutton.h"
 #include "Interfaces/IBaseInterface.h"
 #include "Interfaces/IGameConsole.h"
 #include "Interfaces/IGame.h"
