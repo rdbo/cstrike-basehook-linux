@@ -77,6 +77,7 @@
 #include "Types/cmdalias.h"
 #include "Types/cl_enginefuncs.h"
 #include "Types/kbutton.h"
+#include "Types/cldll_func.h"
 #include "Interfaces/IBaseInterface.h"
 #include "Interfaces/IGameConsole.h"
 #include "Interfaces/IGame.h"
