@@ -1,1 +1,0 @@
-enum modtype_t {mod_brush, mod_sprite, mod_alias, mod_studio};
