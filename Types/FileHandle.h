@@ -1,1 +1,0 @@
-typedef void* FileHandle_t;

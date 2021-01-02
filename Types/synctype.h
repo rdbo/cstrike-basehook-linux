@@ -1,1 +1,0 @@
-enum synctype_t {ST_SYNC, ST_RAND};

@@ -1,11 +1,12 @@
 #include <SDL2/SDL.h>
 
-#ifdef _WIN
+#if (defined(WIN32) || defined(_WIN32) || defined(__WIN32) && !defined(__CYGWIN__) && !defined(linux))
 #include <Windows.h>
 #else
 typedef void* HWND;
 typedef int   BOOL;
 typedef unsigned long ULONG;
+typedef int HSPRITE;
 #endif
 
 typedef float vec3_t[3];
